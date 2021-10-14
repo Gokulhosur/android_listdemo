@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">list demo</string>
+    <string name="submit">submit</string>
+    <string name="enter_name">enter name</string>
+</resources>
